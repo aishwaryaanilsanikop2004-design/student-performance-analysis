@@ -1,0 +1,38 @@
+# Student Performance Analysis & Prediction
+
+## About the Project
+
+This is a Data Science and AI project that analyzes student performance using study hours, attendance, assignment scores, and previous scores.
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Google Colab
+
+## Project Features
+
+- Dataset creation and analysis
+- Missing value checking
+- Statistical analysis
+- Data visualization
+- Correlation heatmap
+- Top student analysis
+- Machine Learning prediction using Linear Regression
+
+## Machine Learning
+
+A Linear Regression model is used to predict the final score of a student based on:
+
+- Study Hours
+- Attendance
+- Assignment Score
+- Previous Score
+
+## Conclusion
+
+The project demonstrates basic Data Science, data visualization, and Machine Learning concepts using Python.
